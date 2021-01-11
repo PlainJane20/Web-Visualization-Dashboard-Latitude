@@ -4,6 +4,6 @@ Web Visualization Dashboard of weather for over 540 cities at different latitude
 
 Please click on the link below for the full dashboard view:
 
-[Web-Visualization-Dashboard-Latitude](https://plainjane20.github.io/Web-Visualization-Dashboard-Latitude/)
+[Web Visualization Dashboard-Latitude](https://plainjane20.github.io/Web-Visualization-Dashboard-Latitude/)
 
 ### Navi Sohi | Data Analytics & Visualization
