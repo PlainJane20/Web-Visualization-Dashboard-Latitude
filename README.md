@@ -48,3 +48,5 @@ The website must, at the top of every page, have a navigation menu that:
 * Is responsive (using `Media Queries`). The nav's background color must change
 
 ![](Images/media_queries_page.png)
+
+Web Visualization Dashboard of weather in 500+ cities at different latitudes relative to the equator line. The visualizations show temperature, humidity, cloudiness, and wind speed using HTML5, CSS3, and Bootstrap4.
