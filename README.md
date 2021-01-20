@@ -9,7 +9,7 @@ Please click on the link below for the full dashboard view:
 ### Built with:
 * `HTML`
 * `CSS`
-* `Bootstrap
+* `Bootstrap`
 * `Pandas`
 * `Jupyter Notebook`
 * `Matplotlib`
