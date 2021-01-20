@@ -6,4 +6,12 @@ Please click on the link below for the full dashboard view:
 
 [Web Visualization Dashboard-Latitude](https://plainjane20.github.io/Web-Visualization-Dashboard-Latitude/)
 
+### Built with:
+* HTML
+* CSS
+* Bootstrap
+* Pandas
+* Jupyter Notebook
+* Matplotlib
+
 ### Navi Sohi | Data Analytics & Visualization
